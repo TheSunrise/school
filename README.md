@@ -1,0 +1,4 @@
+school
+======
+
+All about school
